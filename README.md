@@ -9,7 +9,7 @@
 - [❓ StackOverflow](https://stackoverflow.com/users/19276480/angus)
 - [🌍 Wikipedia](https://en.wikipedia.org/wiki/User:AngusCrighton)
 - [👨‍💻 Hack The box](https://app.hackthebox.com/users/1315904)
-
+<hr>
 <div align="center"> 
 <code><img height="20" alt="python" src="https://github.com/AngusC222/AngusC222/assets/137439262/698339aa-120c-4325-a483-919079e2eb7a"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
