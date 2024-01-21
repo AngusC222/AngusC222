@@ -21,3 +21,6 @@ I am Angus 👋, a full stack web developer from West Lothian, Scotland 🏴󠁧
 ### Other
 
 ![regex, cloudflare, aws, docker, vscode, electron](https://skillicons.dev/icons?i=regex,cloudflare,aws,docker,vscode,electron)
+
+# Repositories
+[badges/shields](https://github.com/badges/shields) [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
